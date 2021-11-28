@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/prashantkrmathur)**
 
-- 📫 How to reach me **sumitkumar308786@gmail.com**
+- 📫 How to reach me **prashantkrmathur@gmail.com**
 
 - ⚡ Fun fact **I play video game and Watch movies.**
 
