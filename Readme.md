@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack.**
+- 🌱 With over 2 years of experience, I specialize in ReactJS, JavaScript, NestJS, NodeJS, Express, MongoDB, PostgreSQL, and MySQL. Skilled in both frontend and backend technologies, I develop robust, scalable solutions for dynamic web applications..**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
